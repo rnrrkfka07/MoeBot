@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moeBot", "moeBot.csproj", "{126DE55F-6C66-9376-AD96-D7EFCAC2345A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126DE55F-6C66-9376-AD96-D7EFCAC2345A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126DE55F-6C66-9376-AD96-D7EFCAC2345A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126DE55F-6C66-9376-AD96-D7EFCAC2345A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126DE55F-6C66-9376-AD96-D7EFCAC2345A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB95255-2FA3-4F44-9B5A-73A47F02D3DB}
+	EndGlobalSection
+EndGlobal
