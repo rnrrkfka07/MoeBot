@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("moeBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e94ec61324292ecf8b23e5b3b4fa79adcaf1c5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("moeBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("moeBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

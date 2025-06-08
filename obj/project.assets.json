@@ -705,11 +705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\moeBot\\moeBot.csproj",
+      "projectUniqueName": "C:\\Users\\garam\\Git\\MoeBot\\moeBot.csproj",
       "projectName": "moeBot",
-      "projectPath": "D:\\moeBot\\moeBot.csproj",
+      "projectPath": "C:\\Users\\garam\\Git\\MoeBot\\moeBot.csproj",
       "packagesPath": "C:\\Users\\garam\\.nuget\\packages\\",
-      "outputPath": "D:\\moeBot\\obj\\",
+      "outputPath": "C:\\Users\\garam\\Git\\MoeBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
