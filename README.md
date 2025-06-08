@@ -2,6 +2,9 @@
   질문하면 대답해주는 디스코드 봇입니다. 
     
   음성채널 접속해있으면 일본어로 말도 해줌
+
+  <img src="discordBot.gif" width="300px"/>
+    
 ## 사용법 
   BotConfig.cs 에 적을거 적으시고 한번 실행하신 다음에 bin\Debug\netX.X 밑에 ffmpeg, libsodium, opus 넣고 다시 실행하시면 됩니다.
     
